@@ -4,5 +4,9 @@ class Box{
 
   Box({required this.ind, required this.value});
 
+  int win(matrix){
+     return 0;
+  }
+
 
 }
